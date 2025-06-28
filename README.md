@@ -1,7 +1,5 @@
 # Flask version of the University Scraper with logo and course scraping using BeautifulSoup and Tailwind UI
 
-"""
-README
 
 University Scraper - Flask App
 ==============================
